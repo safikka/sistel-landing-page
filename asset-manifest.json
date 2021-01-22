@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sistel-landing-page/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sistel-landing-page/static/js/main.1cd4b7c5.chunk.js",
+    "main.js.map": "/sistel-landing-page/static/js/main.1cd4b7c5.chunk.js.map",
+    "runtime-main.js": "/sistel-landing-page/static/js/runtime-main.22b216b9.js",
+    "runtime-main.js.map": "/sistel-landing-page/static/js/runtime-main.22b216b9.js.map",
+    "static/js/2.bd4a23d6.chunk.js": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js",
+    "static/js/2.bd4a23d6.chunk.js.map": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js.map",
+    "static/js/3.d4064136.chunk.js": "/sistel-landing-page/static/js/3.d4064136.chunk.js",
+    "static/js/3.d4064136.chunk.js.map": "/sistel-landing-page/static/js/3.d4064136.chunk.js.map",
+    "index.html": "/sistel-landing-page/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sistel-landing-page/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bd4a23d6.chunk.js.LICENSE.txt": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b216b9.js",
+    "static/js/2.bd4a23d6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1cd4b7c5.chunk.js"
+  ]
+}
