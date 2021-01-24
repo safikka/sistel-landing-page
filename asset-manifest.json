@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/sistel-landing-page/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sistel-landing-page/static/js/main.1cd4b7c5.chunk.js",
-    "main.js.map": "/sistel-landing-page/static/js/main.1cd4b7c5.chunk.js.map",
-    "runtime-main.js": "/sistel-landing-page/static/js/runtime-main.22b216b9.js",
-    "runtime-main.js.map": "/sistel-landing-page/static/js/runtime-main.22b216b9.js.map",
-    "static/js/2.bd4a23d6.chunk.js": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js",
-    "static/js/2.bd4a23d6.chunk.js.map": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js.map",
-    "static/js/3.d4064136.chunk.js": "/sistel-landing-page/static/js/3.d4064136.chunk.js",
-    "static/js/3.d4064136.chunk.js.map": "/sistel-landing-page/static/js/3.d4064136.chunk.js.map",
+    "main.css": "/sistel-landing-page/static/css/main.63830363.chunk.css",
+    "main.js": "/sistel-landing-page/static/js/main.64981f08.chunk.js",
+    "main.js.map": "/sistel-landing-page/static/js/main.64981f08.chunk.js.map",
+    "runtime-main.js": "/sistel-landing-page/static/js/runtime-main.f051bc0a.js",
+    "runtime-main.js.map": "/sistel-landing-page/static/js/runtime-main.f051bc0a.js.map",
+    "static/js/2.97020cfa.chunk.js": "/sistel-landing-page/static/js/2.97020cfa.chunk.js",
+    "static/js/2.97020cfa.chunk.js.map": "/sistel-landing-page/static/js/2.97020cfa.chunk.js.map",
+    "static/js/3.a8fe4664.chunk.js": "/sistel-landing-page/static/js/3.a8fe4664.chunk.js",
+    "static/js/3.a8fe4664.chunk.js.map": "/sistel-landing-page/static/js/3.a8fe4664.chunk.js.map",
     "index.html": "/sistel-landing-page/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/sistel-landing-page/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.bd4a23d6.chunk.js.LICENSE.txt": "/sistel-landing-page/static/js/2.bd4a23d6.chunk.js.LICENSE.txt"
+    "static/css/main.63830363.chunk.css.map": "/sistel-landing-page/static/css/main.63830363.chunk.css.map",
+    "static/js/2.97020cfa.chunk.js.LICENSE.txt": "/sistel-landing-page/static/js/2.97020cfa.chunk.js.LICENSE.txt",
+    "static/media/3dasset.46b3bc9c.png": "/sistel-landing-page/static/media/3dasset.46b3bc9c.png",
+    "static/media/bg.f4c6c17a.png": "/sistel-landing-page/static/media/bg.f4c6c17a.png",
+    "static/media/logo.54da59e0.svg": "/sistel-landing-page/static/media/logo.54da59e0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22b216b9.js",
-    "static/js/2.bd4a23d6.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.1cd4b7c5.chunk.js"
+    "static/js/runtime-main.f051bc0a.js",
+    "static/js/2.97020cfa.chunk.js",
+    "static/css/main.63830363.chunk.css",
+    "static/js/main.64981f08.chunk.js"
   ]
 }
